@@ -1,6 +1,9 @@
-I'm a junior javascript dev;
-I'm focused on web development with CSS And HTML5;
-I have relatively shallow knowledge of Python
+## Sobre mim
+# Informações
+ - Meu nome é Lucas Gabriel.
+ - tenho atualmente 19 anos
+   nasci no ano de 2005.
+ - Faço atualmente bacharelado em Análise e Desenvolvimentos de Sistemas EAD pela Uniasselvi.
 
-My name is Lucas my favorite food is a "cuscuz" with egg and mt favorite pastime is Create basic websites and broaden my knowledge in front-end;
-I From Brasil
+ - Tenho interesse na área de informática, mais especificamente na linguagem de programação PYTHON.
+ - compartilho aqui meus projetos e meus exercícios, sinta-se a vontade para análisar meus arquivos e melhorá-los com suas ideias.
