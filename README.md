@@ -14,7 +14,18 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/lucas_melo495/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  
+<a href='https://portfolio-lucas-melo.vercel.app/' target='_blank'>
+<img src='https://img.shields.io/badge/-portfolio-35495E?style=for-the-badge&logo=google-chrome&logoColor=white'>
+</a>
+
+<a href="https://www.instagram.com/lucas_melo495/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href='https://www.linkedin.com/in/lucasmelo00gpm/' target='_blank'>
+<img src='https://img.shields.io/badge/likendin-blue?style=for-the-badge'>
+</a>
 </div> 
  
 ### Main skills:
