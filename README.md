@@ -12,21 +12,18 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LuskGPM&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-<div align="center">  
   
-<a href='https://portfolio-lucas-melo.vercel.app/' target='_blank'>
-<img src='https://img.shields.io/badge/-portfolio-35495E?style=for-the-badge&logo=google-chrome&logoColor=white'>
-</a>
+  <a href='https://portfolio-lucas-melo.vercel.app/' target='_blank'>
+    <img src='https://img.shields.io/badge/-portfolio-35495E?style=for-the-badge&logo=google-chrome&logoColor=white'>
+  </a>
 
-<a href="https://www.instagram.com/lucas_melo495/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+  <a href="https://www.instagram.com/lucas_melo495/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 
-<a href='https://www.linkedin.com/in/lucasmelo00gpm/' target='_blank'>
-<img src='https://img.shields.io/badge/likendin-blue?style=for-the-badge'>
-</a>
-</div> 
+  <a href='https://www.linkedin.com/in/lucasmelo00gpm/' target='_blank'>
+    <img src='https://img.shields.io/badge/likendin-blue?style=for-the-badge'>
+  </a>
  
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
@@ -35,6 +32,7 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![SQLite](https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
 ![Pandas](https://img.shields.io/badge/-pandas-0D1117?style=for-the-badge&logo=pandas&labelColor=0D1117)&nbsp;
+![Vue.js](https://img.shields.io/badge/-vue-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
  
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
@@ -49,8 +47,8 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp; 
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Vue.js](https://img.shields.io/badge/-vue-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117)&nbsp;
 ![Redis](https://img.shields.io/badge/-redis-0D1117?style=for-the-badge&logo=redis&labelColor=0D1117)&nbsp;
+![API](https://img.shields.io/badge/-apirest-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 ### Visitas neste perfil
 ![](https://komarev.com/ghpvc/?username=LuskGPM&color=brightgreen&style=for-the-badge&abbreviated=true)
