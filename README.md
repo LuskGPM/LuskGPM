@@ -6,8 +6,8 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuskGPM&theme=default" width="100%" alt="Sumary Card"/>
 
 <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuskGPM&theme=default" style="width: 49.7%" alt="Commits by language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuskGPM&theme=default" style="width: 49.7%" alt="Stats Github"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuskGPM&theme=default" style="width: 49%" alt="Commits by language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuskGPM&theme=default" style="width: 49%" alt="Stats Github"/>
 </div>
 
 [![trophy](https://github-profile-trophy-kannan.vercel.app/?username=LuskGPM&theme=light&title=Commits&title=Repositories&title=Stars&title=Experience&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
